@@ -1,0 +1,7 @@
+adapter
+builder
+decorator
+factory
+mediator
+state
+strategy
